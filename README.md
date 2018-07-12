@@ -4,13 +4,9 @@ Language models are built by observing some text.
 
 Language Models discussed:
 
-	Bag of words 
-     
-		A lexicon based Approach
+	Bag of words: A lexicon based Approach
       
-	Word Vectors
-      
-		Machine-learning Approach
+	Word Vectors: Machine-learning Approach
       
 	Bigrams and Trigrams
 
